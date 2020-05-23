@@ -1,3 +1,5 @@
+# This fork is only there in order to update the draft-js dependency version. This module should not be used because of lack of maintenance.
+
 # React Rich Text Editor
 
 ![Build Status](https://travis-ci.org/sstur/react-rte.svg?branch=master)
